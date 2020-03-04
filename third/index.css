@@ -1,0 +1,54 @@
+.first {
+    background-color: lightgray;
+    width: 100vw;
+    height: 10vh;
+}
+
+.square {
+    background-color: dodgerblue;
+    height: 80%;
+    width: 4%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+
+}
+
+.second {
+    background-color: white;
+    width: 100vw;
+    height: 30vh;
+    
+}
+
+p { 
+    text-align: center;
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.third {
+    background-color: deepskyblue;
+    width: 100vw;
+    height: 15vh;
+}
+
+.fourth {
+    background-color: aquamarine;
+    width: 100vw;
+    height: 15vh
+}
+
+.fifth {
+    background-color: palegreen;
+    width: 100vw;
+    height: 15vh;
+}
+
+.sixth {
+    background-color: yellow;
+    width: 100vw;
+    height: 15vh;
+}
